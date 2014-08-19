@@ -1,0 +1,19 @@
+{
+  "name": "airchina-data-get",
+  "version": "1.0.0",
+  "description": "airchina date get",
+  "dependencies": {
+    "commander": "~2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowuly/airchina-data-get.git"
+  },
+  "keywords": [
+    "airchina"
+  ],
+  "author": "Snow",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
