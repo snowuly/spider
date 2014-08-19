@@ -54,7 +54,7 @@ function get (str, day) {
     }
   }
 
-  var so = ['first', 'business', 'economy', 'discount', 'specil'];
+  var so = ['first', 'business', 'economy', 'discount', 'special'];
 
   for (i = 0; i < second.length; i++) {
     var k = so[i], v = second[i], kn = k + '_n';
